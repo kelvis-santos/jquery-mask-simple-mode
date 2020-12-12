@@ -4,7 +4,7 @@
  All js jquery used are in local files no cdn using
  see footer.php got script js imports
  and 
- header.js got css imports
+ header.php got css imports
  
  just import require_once 'header.php' and footer.php in ur page like index.php example if you are using php in your project
 
